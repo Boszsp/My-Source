@@ -2,6 +2,7 @@
 <details>
 <summary> Ver1 </summary>
 HTML
+
 ```html
 <center>
  <div class="loading" >
@@ -14,6 +15,7 @@ HTML
 </center>
 ```
 CSS
+
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200&display=swap');
 
