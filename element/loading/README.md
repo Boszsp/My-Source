@@ -1,5 +1,7 @@
 # Loading 
-## v1
+<details>
+<summary> Ver1 </summary>
+HTML
 ```html
 <center>
  <div class="loading" >
@@ -11,6 +13,7 @@
   </div>
 </center>
 ```
+CSS
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200&display=swap');
 
@@ -66,5 +69,10 @@ input[type="button"]{
  animation : spin 1s infinite linear ;
 }
 
-.
 ```
+</details>
+
+
+
+
+
