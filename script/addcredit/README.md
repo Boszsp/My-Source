@@ -6,3 +6,6 @@
 ```html
 <script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v1.js" ></script>
 ```
+
+## v2
+![](screenshot/SmartSelect_20220530-022208_Opera.jpg)
