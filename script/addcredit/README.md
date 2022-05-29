@@ -9,3 +9,6 @@
 
 ## v2
 ![](screenshot/SmartSelect_20220530-022208_Opera.jpg)
+```html
+<script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v2.js" ></script>
+```
