@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1280">
+<path style="fill:#010101; stroke:none;" d="M0 0L0 1280L1280 1280L1280 0L0 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M383 931C372.944 936.81 373.304 961.954 383 968C384.139 974.668 391.591 978.866 398 979.79C415.288 982.284 434.525 980 452 980L622 980C645.335 980 673.325 981.649 673.946 950C674.557 918.854 646.138 918 623 918L452 918C435.338 918 415.264 914.955 399.015 918.691C392.348 920.223 384.257 923.641 383 931z"/>
+<path style="fill:#ececec; stroke:none;" d="M646 918L647 919L646 918M394 920L395 921L394 920z"/>
+<path style="fill:#818181; stroke:none;" d="M656 920L657 921L656 920z"/>
+<path style="fill:#bfbfbf; stroke:none;" d="M664 926L665 927L664 926z"/>
+<path style="fill:#818181; stroke:none;" d="M666 928L667 929L666 928z"/>
+<path style="fill:#ececec; stroke:none;" d="M382 930L383 931L382 930M376 944L377 945L376 944M377 957L378 958L377 957z"/>
+<path style="fill:#818181; stroke:none;" d="M380 966L381 967L380 966z"/>
+<path style="fill:#ececec; stroke:none;" d="M382 968L383 969L382 968M657 977L658 978L657 977z"/>
+</svg>
