@@ -13,7 +13,7 @@
 ```html
 <script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v2.js" defer ></script>
 ```
-### CDN add in element
+### CDN add in element (id="add_credit_here")
 ```html
 <script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v2_add_in_elem.js" defer ></script>
 ```
