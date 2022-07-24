@@ -15,5 +15,5 @@
 ```
 ### CDN add in element
 ```html
-<script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v2_add_in_elem.js" ></script>
+<script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v2_add_in_elem.js" defer ></script>
 ```
