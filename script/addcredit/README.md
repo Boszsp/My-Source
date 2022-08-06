@@ -4,7 +4,7 @@
 ![](https://github.com/BoszGTec/boszgtec.github.io/raw/main/script/SmartSelect_20220527-232252_Opera.jpg)
 ### CDN
 ```html
-<script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v1.js" ></script>
+<script src="https://cdn.jsdelivr.net/gh/BoszGTec/My-Source/script/addcredit/v1.js" defer ></script>
 ```
 
 ## v2
